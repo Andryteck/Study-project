@@ -1,0 +1,20 @@
+
+body {
+
+}
+.el1 {
+background-color: aqua;
+width: 300px;
+height: 400px;
+}
+.el2 {
+background-color: blue;
+width: 300px;
+height: 400px;
+}
+
+#canvas {
+    background-color: aqua;
+    width: 512px;
+    height: 512px;
+}
